@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Andrei\Documents\GitHub\a678-916-Popa-Andrei-Calin Select CMakeLists.txt
